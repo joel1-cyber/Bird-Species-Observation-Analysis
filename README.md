@@ -1,1 +1,1 @@
-# Bird-Species-Observation-Analysis
+This project analyzes bird species observations across forest and grassland sites to identify patterns in species distribution, seasonal trends, and environmental impacts. It involves data cleaning, exploratory analysis, conservation insights, and interactive visualizations using Python, SQL, and Power BI. The study helps in understanding observer contributions, high-activity zones, and at-risk species, providing valuable insights for biodiversity conservation.
